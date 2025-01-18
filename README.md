@@ -9,3 +9,5 @@
 На странице личного кабинета выводится электронная почта и API (https://dog.ceo/api/breeds/image/random - отображение ссылки на изображение собачек, для поднятия настроения)
 
 IDE: PHP Storm
+Server: MAMP
+OS: MacOS
